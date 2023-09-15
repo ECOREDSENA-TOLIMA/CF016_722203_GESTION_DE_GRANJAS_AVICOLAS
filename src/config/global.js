@@ -198,7 +198,7 @@ export default {
     {
       termino: 'Planes de producción',
       significado:
-        'es un documento que especifica qué procedimientos y recursos deben aplicarse, quién debe aplicarlos y cuándo deben aplicarse a un proceso o producto. Un plan hace referencia con frecuencia a partes del manual de la calidad o a procedimientos documentados, establecidos por la empresa.',
+        'es un documento que específica qué procedimientos y recursos deben aplicarse, quién debe aplicarlos y cuándo deben aplicarse a un proceso o producto. Un plan hace referencia con frecuencia a partes del manual de la calidad o a procedimientos documentados, establecidos por la empresa.',
     },
     {
       termino: 'Registros',

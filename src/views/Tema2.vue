@@ -369,7 +369,7 @@
                 td.p-2 Largas distancias por recorrer entre varios lugares y flujos de trabajos cruzados.
                 td.p-2 Es importen dentro del diseño de planta tener en cuenta los espacios y flujos de recorridos.
               tr
-                td.p-2 Principios del espacio cubico.
+                td.p-2 Principios del espacio cúbico.
                 td.p-2 La economía se obtiene utilizando de un modo efectivo todo el espacio disponible, tanto en horizontal como en vertical.
                 td.p-2
                 td.p-2.text-center X 
@@ -377,14 +377,14 @@
                 td.p-2 Es necesario trasladar la distribuidora de huevos a un lugar más apropiado.
               tr
                 td.p-2 Principio de la flexibilidad.
-                td.p-2 A igualdad de condiciones era siempre más efectiva la distribución que puede ser ajustada o reordenad con menos costo o inconvenientes.
+                td.p-2 A igualdad de condiciones era siempre más efectiva la distribución que puede ser ajustada o reordenada con menos costo o inconvenientes.
                 td.p-2 
                 td.p-2.text-center X
                 td.p-2 No se ha llegado a una mejora porque no se tiene el conocimiento y la experticia para realizarlo.
                 td.p-2 Se realiza diseño anexo 2 teniendo como base la cantidad de productos y su nivel de rotación. 
               tr
                 td.p-2 Principio de la planeación.
-                td.p-2 Todo manejo de materiales debe ser el resultado de un plan deliberado en el que las necesidades, objetivos de desempeño y especifica acciones funcionales d ellos métodos propuestos serán definidos totalmente desde el inicio.
+                td.p-2 Todo manejo de materiales debe ser el resultado de un plan deliberado en el que las necesidades, objetivos de desempeño y específica acciones funcionales d ellos métodos propuestos serán definidos totalmente desde el inicio.
                 td.p-2
                 td.p-2.text-center X 
                 td.p-2 No se cuenta con una mejora porque no se tiene el conocimiento para realizar una respectiva planeación.
