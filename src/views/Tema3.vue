@@ -97,7 +97,7 @@
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.1 Acciones preventivas
 
-    p.mb-4(data-aos="flip-down") Las acciones preventivas como su nombre lo indica, son todas las actividades que se planean antes de cada proceso para tener un mejor control de posibles riesgos que se pueden presentar a lo largo de la producción, estas se toman conforme a experiencias que ya se han presentado anteriormente, como medidas para evitar hallazgos de no conformidad no deseada de cualquier índole dentro cada sistema de producción avícola.
+    p.mb-4(data-aos="flip-down") Las acciones preventivas, como su nombre lo indica, son todas las actividades que se planean antes de cada proceso para tener un mejor control de posibles riesgos que se pueden presentar a lo largo de la producción, estas se toman conforme a experiencias que ya se han presentado anteriormente, como medidas para evitar hallazgos de no conformidad no deseada de cualquier índole dentro cada sistema de producción avícola.
     p.mb-4(data-aos="flip-down") Para desarrollar estas actividades, existen tres pasos esenciales que se deben tener en cuenta:
 
     .row.mb-5(data-aos="flip-down")

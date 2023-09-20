@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Ejecución y evaluación de procesos productivos en granjas avícolas',
     descripcionCurso:
-      'Para determinar la eficacia de la ejecución de las actividades en los procesos productivos en granjas avícolas, es necesario realizar una evaluación mediante diferentes documentos como registros y listas de chequeo entre otros, obteniendo la información correspondiente para tomar las medidas adecuadas y proponer planes de mejoramiento con acciones correctivas.',
+      'Para determinar la eficacia de la ejecución de las actividades en los procesos productivos en granjas avícolas, es necesario realizar una evaluación mediante diferentes documentos como registros y listas de chequeo, entre otros, obteniendo la información correspondiente para tomar las medidas adecuadas y proponer planes de mejoramiento con acciones correctivas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -186,7 +186,7 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Buenas practicas avícolas',
+      termino: 'Buenas prácticas avícolas',
       significado:
         'es el conjunto de medidas que le permiten al productor implementar y tener como guía en cuanto al manejo de los procesos sanitarios, ambientales, de producción e inocuidad.',
     },

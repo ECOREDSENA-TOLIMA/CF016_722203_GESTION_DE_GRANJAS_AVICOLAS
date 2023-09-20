@@ -47,7 +47,7 @@
             .tarjeta.color-primario.p-4
               p.text-center Verifica la eficacia de la acción correctiva.
       
-    p.mb-4(data-aos="flip-down") Es importante implementar acciones correctivas dentro de los procesos productivos después de una auditoría ya sea externa o interna.
+    p.mb-4(data-aos="flip-down") Es importante implementar acciones correctivas dentro de los procesos productivos después de una auditoría, ya sea externa o interna.
     p.mb-5(data-aos="flip-down") Como estrategia es necesario tener implementado el sistema de gestión de la calidad en los procesos de las granjas avícolas, porque nos permiten el buen funcionamiento organizacional, debido a que estos estarán acompañados de procesos de auditorías internas y externas, que conducen a cumplir con todos los protocolos y normatividad vigente.
 
 

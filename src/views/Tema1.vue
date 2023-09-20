@@ -7,7 +7,7 @@
         span 1
       h1 Plan de contingencia
 
-    p.mb-5(data-aos="flip-down") La contingencia hace referencia a la posibilidad que ocurra algo o no, por tal motivo, los planes de contingencia son necesarios para controlar una determinada situación de emergencia brindando una reacción rápida y positiva garantizando la continuidad del funcionamiento de la producción avícola frente a cualquier eventualidad, ya sean personas, equipos o materiales.
+    p.mb-5(data-aos="flip-down") La contingencia hace referencia a la posibilidad que ocurra algo o no, por tal motivo, los planes de contingencia son necesarios para controlar una determinada situación de emergencia, brindando una reacción rápida y positiva, garantizando la continuidad del funcionamiento de la producción avícola frente a cualquier eventualidad, ya sean personas, equipos o materiales.
 
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")

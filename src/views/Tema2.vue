@@ -7,7 +7,7 @@
         span 2
       h1 Registro y documentación
 
-    p.mb-4(data-aos="fade-down") Los registros son herramientas de la información se emplean para controlar y organizar toda la información que se recolecta de cada proceso, para obtener un mejor panorama del funcionamiento de las actividades desarrolladas en las granjas avícolas y así determinar qué decisiones y acciones se deben tomar según el desempeño realizado en cada tarea. 
+    p.mb-4(data-aos="fade-down") Los registros son herramientas de la información, se emplean para controlar y organizar toda la información que se recolecta de cada proceso, para obtener un mejor panorama del funcionamiento de las actividades desarrolladas en las granjas avícolas y así determinar qué decisiones y acciones se deben tomar según el desempeño realizado en cada tarea. 
 
     Separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -51,7 +51,7 @@
                 span Descargar
                 i.fas.fa-file-download 
 
-    p.mb-4(data-aos="fade-down") La siguiente tabla es un ejemplo de un modelo de registro para auditoría que se puede implementar según la organización de cada granja avícolas, teniendo presente el control y las actividades que se desarrollan, disponible en el código de buenas prácticas avícolas.
+    p.mb-4(data-aos="fade-down") La siguiente tabla es un ejemplo de un modelo de registro para auditoría que se puede implementar según la organización de cada granja avícola, teniendo presente el control y las actividades que se desarrollan, disponible en el código de buenas prácticas avícolas.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-9(data-aos="fade-right")
@@ -271,7 +271,7 @@
       h2 2.4 Listas de chequeo
 
     p.mb-4(data-aos="fade-down") Las listas de chequeo son formatos que se utilizan para controlar las actividades que se realizan de manera repetitiva durante una jornada o ciclo productivo, su función básicamente es brindar un panorama acertado o real sobre el desempeño tanto de los operarios como del funcionamiento de las instalaciones, maquinaria y equipos que se emplean para el desarrollo de la producción, se considera como un formato de diagnóstico o evaluación según se requiera.
-    p.mb-4(data-aos="fade-down") Para el diseño de las listas de chequeo es importante identificar qué se va a evaluar, analizar o medir para así determinar el número de ítems que se requieren para una acertada recolección de datos o información; ejemplo del contenido de una lista de chequeo, serían el número de ítems, descripción de cada ítem, criterio de evaluación cumple o no cumple y observaciones, como se observa en la siguiente tabla 6.
+    p.mb-4(data-aos="fade-down") Para el diseño de las listas de chequeo es importante identificar qué se va a evaluar, analizar o medir, para así determinar el número de ítems que se requieren para una acertada recolección de datos o información; ejemplo del contenido de una lista de chequeo, serían el número de ítems, descripción de cada ítem, criterio de evaluación cumple o no cumple y observaciones, como se observa en la siguiente tabla 6.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-11(data-aos="fade-right")
@@ -400,7 +400,7 @@
     #t_2_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.5 Técnicas de diligenciamiento
 
-    p.mb-4(data-aos="fade-down") Las técnicas de diligenciamiento hacen referencia a la forma correcta en que se debe plasmar la información en cada formato o documento, es importante identificar los tipos de prestación, los cuales pueden ser físicos o digitales, según esto se manejarían cierto criterios para su diligenciamiento, teniendo en cuenta cada área y proceso tienen su respectivo formativo y control, por tal motivo es necesario que cada operario, jefe de área o galponera identifique para que se está recolectando la información de manera que le permitirá a él tener claro los datos que deben registrar según lo que se indica en el formato.
+    p.mb-4(data-aos="fade-down") Las técnicas de diligenciamiento hacen referencia a la forma correcta en que se debe plasmar la información en cada formato o documento, es importante identificar los tipos de prestación, los cuales pueden ser físicos o digitales, según esto se manejarían ciertos criterios para su diligenciamiento, teniendo en cuenta cada área y proceso tienen su respectivo formativo y control, por tal motivo es necesario que cada operario, jefe de área o galponera identifique para que se está recolectando la información de manera que le permitirá a él tener claro los datos que deben registrar según lo que se indica en el formato.
 
     .bloque-texto-g.bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="flip-down")
       .bloque-texto-g__img(

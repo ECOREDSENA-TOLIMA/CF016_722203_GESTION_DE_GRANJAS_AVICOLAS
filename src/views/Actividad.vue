@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Emparejamiento entre término y definición
-        p.mb-4 #[b Objetivo:] afianzar algunos de los conceptos sobre las eficacia de la ejecución de las actividades en los procesos productivos en granjas avícolas del componente formativo #[b Ejecución y evaluación de procesos productivos en granjas avícolas.]
+        p.mb-4 #[b Objetivo:] afianzar algunos de los conceptos sobre la eficacia de la ejecución de las actividades en los procesos productivos en granjas avícolas del componente formativo #[b Ejecución y evaluación de procesos productivos en granjas avícolas.]
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
